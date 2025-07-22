@@ -1,6 +1,28 @@
-hello
-my self vikki
-real website url - https://www.saucedemo.com/v1/
-I share test case excel pdf with selenium wedriver JAVA codes.
-test - login page,product selection process,add to cart , product order process,login with invalid passwords etc.
-thank you 
+
+
+# Selenium-JAVA Automation Project
+
+This repository contains Selenium WebDriver automation scripts written in Java.  
+The scripts demonstrate testing workflows on the sample e-commerce website:  
+👉 [SauceDemo](https://www.saucedemo.com/v1/)
+
+## What’s Included
+I have also shared test case documentation (in Excel/PDF) alongside the scripts for better understanding.  
+The automation covers the following scenarios:
+
+- Login with valid and invalid credentials
+- Product selection process
+- Adding products to the cart
+- Placing an order
+- Verifying login with invalid passwords
+- Complete product order workflow
+
+## Tools & Technologies
+- Selenium WebDriver
+- Java
+- Sample site: [SauceDemo](https://www.saucedemo.com/v1/)
+
+Feel free to explore the code and use it as a reference for learning or practicing Selenium with Java.
+
+Thank you!
+
